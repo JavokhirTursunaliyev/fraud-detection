@@ -2,3 +2,7 @@ venv/
 __pycache__/
 *.py[cod]
 .env
+.ipynb_checkpoints/
+*.csv
+.jupyter-runtime/
+.jupyter-notebook*.log
